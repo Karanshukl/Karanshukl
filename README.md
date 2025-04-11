@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+![Snake animation](https://raw.githubusercontent.com/Karanshukl/Karanshukl/output/github-snake.svg)
+<!-- <img alt="github-snake" src="https://raw.githubusercontent.com/Karanshukl/Karanshukl/output/github-snake.svg" /> -->
