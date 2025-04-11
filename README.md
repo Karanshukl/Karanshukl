@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 
 
-![Snake animation](https://raw.githubusercontent.com/Karanshukl/Karanshukl/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Karanshukl/Karanshukl/output/github-snake-dark.svg)
 <!-- <img alt="github-snake" src="https://raw.githubusercontent.com/Karanshukl/Karanshukl/output/github-snake.svg" /> -->
