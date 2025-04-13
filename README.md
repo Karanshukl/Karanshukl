@@ -15,11 +15,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
 
-  <a href="https://www.instagram.com/karan_shukl_143" target="_blank">
+  <a href="https://www.instagram.com/karan_shukl143" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
 
-  <a href="https://twitter.com/karanshukla7680" target="_blank">
+  <a href="https://twitter.com/KaranShukl7680" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
 
@@ -31,11 +31,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo" />
   </a>
 
-  <a href="https://www.hackerrank.com/your_username" target="_blank">
+  <a href="https://www.hackerrank.com/karanshukl143" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo" />
   </a>
 
-  <a href="https://www.youtube.com/@your_channel" target="_blank">
+  <a href="https://www.youtube.com/@" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
   </a>
 
