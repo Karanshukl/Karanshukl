@@ -1,4 +1,4 @@
-<h1 align="center">Hello World👋 I'm Karan Shukla</h1>
+<h1 align="center">Hello World👋 My name is Karan Shukla</h1>
 <h3 align="center">👾 Data Scientist | Machine Learning & AI Enthusiast | Open Source Contributor</h3>
 
 
